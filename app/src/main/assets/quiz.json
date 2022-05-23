@@ -1,0 +1,120 @@
+{
+	"items": [
+		{
+			"question": "Should your couple have a model appearance?",
+			"answers": [
+				{
+					"text": "Yes",
+					"value": 1
+				},
+				{
+					"text": "No",
+					"value": 3
+				},
+				{
+					"text": "Not really important",
+					"value": 2
+				}
+			]
+		},
+		{
+			"question": "Do you like sharing housework?",
+			"answers": [
+				{
+					"text": "Yes",
+					"value": 3
+				},
+				{
+					"text": "No",
+					"value": 1
+				},
+				{
+					"text": "Not that much",
+					"value": 2
+				}
+			]
+		},
+                {
+			"question": "Will you pay for your partner if he/she loses the income?",
+			"answers": [
+				{
+					"text": "Yes",
+					"value": 3
+				},
+				{
+					"text": "No",
+					"value": 1
+				},
+				{
+					"text": "Maybe",
+					"value": 2
+				}
+			]
+		},
+                {
+			"question": "Are you ready to date with a person who has a child?",
+			"answers": [
+				{
+					"text": "Yes",
+					"value": 3
+				},
+				{
+					"text": "No",
+					"value": 1
+				},
+				{
+					"text": "Not sure",
+					"value": 2
+				}
+			]
+		},
+                {
+			"question": "Are you ready to have children?",
+			"answers": [
+				{
+					"text": "I already have!",
+					"value": 3
+				},
+				{
+					"text": "I think so",
+					"value": 2
+				},
+				{
+					"text": "No",
+					"value": 1
+				}
+			]
+		},
+                {
+			"question": "Would you prefer going out with friends rather then having time with your partner?",
+			"answers": [
+				{
+					"text": "No, I would stay with my loved one",
+					"value": 3
+				},
+				{
+					"text": "Sometimes I can do that",
+					"value": 2
+				},
+				{
+					"text": "Yes, I always have fun with friends, not with my partner",
+					"value": 1
+				}
+			]
+		}
+	],
+	"results": [
+		{
+			"max": 6,
+			"text": "What a pity! You're not ready for some serious relationship yet. You need to reconsider your position."
+		},
+		{
+			"max": 12,
+			"text": "You're rather stable, however there's still much to do. Don't worry! Now you have time to go out and have fun a lot and maybe you will meet your soulmate."
+		},
+		{
+			"max": 18,
+			"text": "You are a perfect partner! Every girl dreams about having relationship with you!"
+		}
+	]
+}

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1077460412834",
+    "project_id": "slot-ec221",
+    "storage_bucket": "slot-ec221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077460412834:android:3b91f969e8ff4007ef6afb",
+        "android_client_info": {
+          "package_name": "com.quizaruim.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077460412834-umub4iuooh32gtkfmqtenlfqmii7oc7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHkM_Io0ruCYbOHP-GGz6ZOyn0wJfXoEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077460412834-umub4iuooh32gtkfmqtenlfqmii7oc7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077460412834:android:34fecb5540ead70eef6afb",
+        "android_client_info": {
+          "package_name": "com.uvenal.slot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077460412834-umub4iuooh32gtkfmqtenlfqmii7oc7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHkM_Io0ruCYbOHP-GGz6ZOyn0wJfXoEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077460412834-umub4iuooh32gtkfmqtenlfqmii7oc7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
